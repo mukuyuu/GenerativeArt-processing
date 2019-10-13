@@ -1,1 +1,2 @@
 # GenerativeArt-processing
+processingによるジェネラティブアートをいろいろと探求していく予定です。
